@@ -1,0 +1,62 @@
+[
+    {
+        "id": "CSK",
+        "name": "Chennai Super Kings",
+        "short_name": "CSK",
+        "purse": 120.0
+    },
+    {
+        "id": "DC",
+        "name": "Delhi Capitals",
+        "short_name": "DC",
+        "purse": 120.0
+    },
+    {
+        "id": "GT",
+        "name": "Gujarat Titans",
+        "short_name": "GT",
+        "purse": 120.0
+    },
+    {
+        "id": "KKR",
+        "name": "Kolkata Knight Riders",
+        "short_name": "KKR",
+        "purse": 120.0
+    },
+    {
+        "id": "LSG",
+        "name": "Lucknow Super Giants",
+        "short_name": "LSG",
+        "purse": 120.0
+    },
+    {
+        "id": "MI",
+        "name": "Mumbai Indians",
+        "short_name": "MI",
+        "purse": 120.0
+    },
+    {
+        "id": "PBKS",
+        "name": "Punjab Kings",
+        "short_name": "PBKS",
+        "purse": 120.0
+    },
+    {
+        "id": "RR",
+        "name": "Rajasthan Royals",
+        "short_name": "RR",
+        "purse": 120.0
+    },
+    {
+        "id": "RCB",
+        "name": "Royal Challengers Bengaluru",
+        "short_name": "RCB",
+        "purse": 120.0
+    },
+    {
+        "id": "SRH",
+        "name": "Sunrisers Hyderabad",
+        "short_name": "SRH",
+        "purse": 120.0
+    }
+]

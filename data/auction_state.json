@@ -1,0 +1,106 @@
+{
+    "purses": {
+        "CSK": 117.2,
+        "MI": 110.8,
+        "DC": 120.0,
+        "PBKS": 117.2,
+        "GT": 120.0,
+        "RR": 120.0,
+        "KKR": 113.4,
+        "RCB": 120.0,
+        "LSG": 120.0,
+        "SRH": 120.0
+    },
+    "squads": {
+        "CSK": [
+            {
+                "id": "rohit-sharma",
+                "name": "Rohit Sharma",
+                "role": "Batter",
+                "nationality": "Indian",
+                "team": "MI",
+                "base_price": 2.0,
+                "sold_price": 2.8,
+                "matches": 267,
+                "runs": 7046,
+                "average": 29.72,
+                "strike_rate": 131.14,
+                "wickets": 15,
+                "economy": 8.02
+            }
+        ],
+        "MI": [
+            {
+                "id": "P001",
+                "name": "Virat Kohli",
+                "role": "Batter",
+                "nationality": "Indian",
+                "base_price": 2.0,
+                "sold_price": 3.2
+            },
+            {
+                "id": "P002",
+                "name": "Rohit Sharma",
+                "role": "Batter",
+                "nationality": "Indian",
+                "base_price": 2.0,
+                "sold_price": 2.8
+            },
+            {
+                "id": "virat-kohli",
+                "name": "Virat Kohli",
+                "role": "Batter",
+                "nationality": "Indian",
+                "team": "RCB",
+                "base_price": 2.0,
+                "sold_price": 3.2,
+                "matches": 267,
+                "runs": 8557,
+                "average": 39.55,
+                "strike_rate": 132.15,
+                "wickets": 0,
+                "economy": 0.0
+            }
+        ],
+        "DC": [],
+        "PBKS": [
+            {
+                "id": "kl-rahul",
+                "name": "KL Rahul",
+                "role": "Wicketkeeper",
+                "nationality": "Indian",
+                "team": "DC",
+                "base_price": 2.0,
+                "sold_price": 2.8,
+                "matches": 145,
+                "runs": 5700,
+                "average": 45.0,
+                "strike_rate": 135.0,
+                "wickets": 0,
+                "economy": 0.0
+            }
+        ],
+        "GT": [],
+        "RR": [],
+        "KKR": [
+            {
+                "id": "jasprit-bumrah",
+                "name": "Jasprit Bumrah",
+                "role": "Bowler",
+                "nationality": "Indian",
+                "team": "MI",
+                "base_price": 2.0,
+                "sold_price": 6.6,
+                "matches": 158,
+                "runs": 56,
+                "average": 4.67,
+                "strike_rate": 83.58,
+                "wickets": 160,
+                "economy": 7.3
+            }
+        ],
+        "RCB": [],
+        "LSG": [],
+        "SRH": []
+    }
+}
